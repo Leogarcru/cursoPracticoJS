@@ -10,3 +10,11 @@ Curso practico de JS en platzi con JuanDC
 - Implementar las formulas en js
 - Crear funciones
 - Integrar JS y HTML
+
+## Taller #2: Porcentajes y descuentos
+
+- Definir las formulas
+- Implementar las formulas en js
+- Crear funciones
+- Integrar JS con HTML
+
